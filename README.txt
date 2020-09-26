@@ -1,4 +1,4 @@
-Programming for Everybody (Getting Started with Python)
+Python for Everybody Specialization
 by University of Michigan
 
 coursera.org
