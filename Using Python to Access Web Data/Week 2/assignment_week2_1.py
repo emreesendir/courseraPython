@@ -1,6 +1,5 @@
 import re
 
-#handler = open('regex_sum_42.txt')
 handler = open('regex_sum_967384.txt')
 txt = handler.read()
 
